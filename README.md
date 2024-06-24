@@ -214,7 +214,7 @@ Click the “Set up a workflow yourself” button
 
 change the yaml file name
 
-![Screenshot 2024-06-24 080953](https://github.com/CydexCode/github-actions-demo/assets/112784979/f58dab1b-bd5e-4a5a-aa7e-0fea35982202)
+![Screenshot 2024-06-24 081024](https://github.com/CydexCode/github-actions-demo/assets/112784979/066d3d34-b1e3-4895-9e0c-ec381aa46880)
 
 ### 3. Define the Workflow:
 
@@ -249,15 +249,13 @@ Navigate to the “Actions” tab in your repository to see the workflow runs. C
 
 ![Screenshot 2024-06-24 083332](https://github.com/CydexCode/github-actions-demo/assets/112784979/5fdded59-b0b9-478a-b723-97eca08923ff)
 
-click the file
+Click on a workflow run to view the details and logs of each step.
 
 ![Screenshot 2024-06-24 083710](https://github.com/CydexCode/github-actions-demo/assets/112784979/950cfc97-7bd3-4f65-aac7-029a95e49d2c)
 
-thies are the jobs
+You will see the my-job job and within it, the my-step step displaying "Hello World!".
 
 ![Screenshot 2024-06-24 083738](https://github.com/CydexCode/github-actions-demo/assets/112784979/7f96b7b0-2da3-4caa-901b-c0fed11eac13)
-
-click the job file
 
 ![Screenshot 2024-06-24 083809](https://github.com/CydexCode/github-actions-demo/assets/112784979/bec76fb9-783f-4b93-af77-65b963356cfe)
 
